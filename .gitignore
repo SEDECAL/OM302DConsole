@@ -27,6 +27,9 @@ OM302DConsole
 *_qmlcache.cpp
 qmlcache_loader.cpp
 
+# Release assets (local only, distributed via GitHub Releases)
+release-assets/
+
 # Temporary files
 *.tmp
 *.bak
