@@ -1,0 +1,35 @@
+# Qt Creator
+*.pro.user
+*.pro.user.*
+*.moc
+moc_*.cpp
+moc_*.h
+qrc_*.cpp
+ui_*.h
+Makefile*
+.qmake.stash
+.qmake.cache
+
+# Build directories
+build*/
+build.*/
+*-build-*/
+
+# Compiled objects and binaries
+*.o
+*.obj
+*.so
+*.a
+*.dll
+OM302DConsole
+
+# Qt Quick Compiler generated files
+*_qmlcache.cpp
+qmlcache_loader.cpp
+
+# Temporary files
+*.tmp
+*.bak
+*~
+.DS_Store
+Thumbs.db

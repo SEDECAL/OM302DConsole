@@ -1,0 +1,13 @@
+OM302DConsole — Third-party notices
+=====================================
+
+1. Qt Framework 5.12.6
+   Copyright (C) The Qt Company Ltd.
+   License: GNU Lesser General Public License v3.0 (LGPLv3)
+   Source: https://download.qt.io/archive/qt/5.12/5.12.6/
+
+   This software dynamically links against the Qt libraries.
+   In accordance with the LGPLv3, the user may obtain the Qt source code
+   at the URL above and relink against a modified version of Qt.
+   Qt was compiled for the target platform: arm-linux-gnueabihf
+   (ARM Cortex-A9, EGL framebuffer, Vivante GPU, iMX6).
